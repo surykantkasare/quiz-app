@@ -1,0 +1,19 @@
+
+.question-style{
+  border: 1px solid none;
+  background-color: rgb(61, 182, 238);
+  border-radius: 5px;
+  padding: 20px;
+  color: white;
+  line-height: 30px;
+  font-size: large;
+}
+
+.App{
+  background-color: rgb(61, 182, 238);
+}
+.heading{
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+}
